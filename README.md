@@ -1,4 +1,4 @@
-# Ion-Count-Assited-Imaging
+# Ion-Count-Assited-Microscopy
 Codebase for creating and analyzing ICAM images, as reported in the manuscript "Shot noise-mitigated secondary electron imaging with ion count-aided microscopy". A preprint versopm of the manuscript is available at (https://arxiv.org/abs/2311.07003). 
 
 The codebase consists of 4 MATLAB scripts. These scripts were written and verified in MATLAB R2022a. 
