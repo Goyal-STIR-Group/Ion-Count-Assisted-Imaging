@@ -1,7 +1,9 @@
 # Ion-Count-Assited-Microscopy
-Codebase for creating and analyzing ICAM images, as reported in the manuscript "Shot noise-mitigated secondary electron imaging with ion count-aided microscopy". A preprint versopm of the manuscript is available at (https://arxiv.org/abs/2311.07003). 
+Codebase for creating and analyzing ICAM images, as reported in the manuscript "Shot noise-mitigated secondary electron imaging with ion count-aided microscopy". A preprint versopm of the manuscript is available at https://arxiv.org/abs/2311.07003. 
 
 Authors: Akshay Agarwal, Xinglin He
+
+DOI for this repo: <a href="https://zenodo.org/doi/10.5281/zenodo.10535998"><img src="https://zenodo.org/badge/745682353.svg" alt="DOI"></a>
 
 The codebase consists of 4 MATLAB scripts. These scripts were written and verified in MATLAB R2022a. 
 
